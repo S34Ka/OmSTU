@@ -1,0 +1,16 @@
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll.config
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\s34k\omstu\course_1\semester_1\algorithmization_and_programming\practical\Практическая_работа_2\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
